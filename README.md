@@ -19,3 +19,11 @@ amount of experience working in the shell or coding to appreciate the bindings o
 Here is an excellent tutorial with most of the juicy stuff:
 
 http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
+
+
+Plug-ins add so much to Vim, check these out:
+http://vimcasts.org/episodes/aligning-text-with-tabular-vim/
+
+
+Sublime is still better, but you can try to emulate it with these color-schemes:
+`color scheme link goes here`
