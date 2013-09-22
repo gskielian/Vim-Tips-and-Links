@@ -28,4 +28,9 @@ sudo apt-get install rake
 ```
 
 Requires Jellybeans
+
 http://www.vim.org/scripts/script.php?script_id=2555
+
+You will need to copy the `jellybeans.vim` file into the `~/.vim/colors` directory.
+
+You may need to make a `~/.vim/colors` directory if one doesn't already exist.
