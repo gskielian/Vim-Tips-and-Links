@@ -6,6 +6,7 @@ Getting started with vim one can become overwhelmed with a lot of plugins and op
 I'll try to answer that, and suggest the settings I use for begginers.
 
 
+First bit of advice, is to start out with the following enhancement (imho the best)
 
 Use Maximum-awesome-squared
 ---------------------------
@@ -27,10 +28,19 @@ if you don't have `rake` then you try the following (using package manager for y
 sudo apt-get install rake
 ```
 
-Requires Jellybeans
+
+Maximum-Awesome-Squared requires Jellybeans colorscheme by default
 
 http://www.vim.org/scripts/script.php?script_id=2555
 
 You will need to copy the `jellybeans.vim` file into the `~/.vim/colors` directory.
 
 You may need to make a `~/.vim/colors` directory if one doesn't already exist.
+
+
+(for my students who are just starting out)
+```bash
+cd ~/.vim
+mdkir colors
+```
+
