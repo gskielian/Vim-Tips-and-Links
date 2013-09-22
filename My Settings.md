@@ -52,9 +52,9 @@ Useful Commands
 
 
 Before you can type, press `i`.  This will allow you to start to *insert* text into the file.
-This is how to transition from **Normal Mode -> Insert Mode**
+This is how to transition from **Normal-Mode -> Insert-Mode**
 
-**Anymode to Normal Mode** -- use `Esc` key or use `cntl + [` the latter is highly recommended.
+**Anymode to Normal-Mode** -- use `Esc` key or use `cntl + [` the latter is highly recommended.
 
 **Normal-Mode to Visual Mode** -- press `v` to select text with cursor (move around with arrow keys) or `Shift + v` to select lines straightaway.
 
