@@ -11,6 +11,13 @@ First bit of advice, is to start out with the following enhancement (imho the be
 Use Maximum-awesome-squared
 ---------------------------
 
+Features:
+* you can still use your mouse -- which can be good/essential for beginners
+* you can see spaces -- which is great for coding in python (I love this feature)
+* looks pretty good (syntax highlighting) for many languanges -- no need to search for hours for a good colorscheme.
+* indenting is handled ok
+
+
 Visit the following project and install by `cd`-ing into the directory and using the `rake` command.
 
 https://github.com/tsironis/maximum-awesome-squared
