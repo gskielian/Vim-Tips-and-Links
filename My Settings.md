@@ -70,7 +70,7 @@ This is how to transition from **Normal-Mode -> Insert-Mode**
 
 Insert Mode -- you can type - yay!
 
-Normal Mode -- can zoom around the document *super* fast, and automate much coding
+Normal Mode -- can zoom around the document *super* fast, and automate much code writing
 
 Visual Mode -- allows you to make a selection and do copying and further stuff to selection.
 
