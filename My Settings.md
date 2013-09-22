@@ -47,12 +47,23 @@ mdkir colors
 Useful Commands
 ---------------
 
+### Operations:
+
+
 Before you can type, press `i`.  This will allow you to start to *insert* text into the file.
+This is how to transition from **Normal Mode -> Insert Mode**
+
+**Anymode to Normal Mode** -- use `Esc` key or use `cntl + [` the latter is highly recommended.
+
+**Normal-Mode to Visual Mode** -- press `v` to select text with cursor (move around with arrow keys) or `Shift + v` to select lines straightaway.
+
+
+### States:
 
 Insert Mode -- you can type - yay!
 
 Normal Mode -- can do seds and stuff
 
-Visual Mode -- allows you to make a selection
+Visual Mode -- allows you to make a selection and do copying and further stuff to selection.
 
 I use this for CopyPasta as well as for doing edits on a selection.
