@@ -44,3 +44,15 @@ cd ~/.vim
 mdkir colors
 ```
 
+Useful Commands
+---------------
+
+Before you can type, press `i`.  This will allow you to start to *insert* text into the file.
+
+Insert Mode -- you can type - yay!
+
+Normal Mode -- can do seds and stuff
+
+Visual Mode -- allows you to make a selection
+
+I use this for CopyPasta as well as for doing edits on a selection.
