@@ -8,8 +8,8 @@ The versatility of the this (any repetitive task can be automated) makes it a gr
 
 steps:
 
-1) `q` then letter to store the macro: (I use `u` for random stuff) e.g.: `qu`
-2) 
+1. `q` then letter to store the macro: (I use `u` for random stuff) e.g.: `qu`
+2. 
 
 
 
