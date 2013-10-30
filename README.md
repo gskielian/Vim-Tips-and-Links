@@ -23,6 +23,7 @@ http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
 
 Plug-ins add so much to Vim, check these out:
 http://vimcasts.org/episodes/aligning-text-with-tabular-vim/
+http://net.tutsplus.com/tutorials/other/vim-essential-plugin-surround/
 
 
 Sublime is still better, but you can try to emulate it with these color-schemes:
