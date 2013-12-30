@@ -1,6 +1,5 @@
 
 
-
 first motivate because it is the default editor
 since it is considered "professional" another motivation
 
@@ -27,7 +26,7 @@ gg
 
 G
 
-# + G for teleportation
+: + # for teleportation
 
 
 ### Macros
